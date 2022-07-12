@@ -18,7 +18,6 @@
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
