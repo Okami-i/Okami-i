@@ -15,7 +15,7 @@
 <a href="https://discord.com/users/">
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/discord.png" height="35px" style="margin: 5px;" /> 
  
-<a href="https://twitter.com/Okami_is_here">
+<a href="https://twitter.com/">
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" /> 
   
 </a>
