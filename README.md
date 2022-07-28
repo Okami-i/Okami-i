@@ -8,7 +8,7 @@
   
 - currently Working on: **HTML website with a friend**
   
-- Standalone Projects: **A̶k̶a̶m̶i̶M̶o̶d̶**
+- Standalone Projects: **AkamiMod**
 <p>
   
 </a>
